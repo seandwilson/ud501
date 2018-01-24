@@ -1,8 +1,0 @@
-Stock data:
-    - adjuste close - close that day adjusted for stock splits and dividends
-pandas dataframe:
-    - NaN -> not a number
-        - can cause problems
-    - can read in csv file with df = pandas.read_csv(filename)
-        -ex: df.head(n) print the first n rows
-        - df.tail(n) print the last n rows
